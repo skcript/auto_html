@@ -11,6 +11,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency('rinku', '~> 1.7')
   gem.add_dependency('redcarpet', '~> 3.1')
+  gem.add_dependency('github-markup', '~> 1.4')
 
   gem.add_development_dependency('minitest', '~> 5.4')
 
